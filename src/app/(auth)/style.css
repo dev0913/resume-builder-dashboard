@@ -1,0 +1,22 @@
+:root {
+    --gradient-colors: linear-gradient(
+      90deg,
+      #45ffd2 0%,
+      #fdffa8 51%,
+      #ff6061 100%
+    );
+  }
+  
+  .gradient-text {
+    background: var(--gradient-colors);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .gradient-bg {
+    background: var(--gradient-colors);
+  }
+  
+  .gradient-color {
+    color: var(--gradient-colors);
+  }
