@@ -40,9 +40,64 @@ Examples::
 
  
 
-Figure 5.1 Home Page
+Figure: Home Page
 
- 
  <img width="919" height="591" alt="image" src="https://github.com/user-attachments/assets/167aa6cb-8e21-49e5-ace1-30eec1cbc1c0" />
 
 
+Figure: Template Section
+
+<img width="913" height="591" alt="image" src="https://github.com/user-attachments/assets/09d792cb-4860-4613-8daa-d41fbf2c5352" />
+
+
+Figure : Select Template
+
+<img width="866" height="591" alt="image" src="https://github.com/user-attachments/assets/52a7f4f5-531d-4315-a6ca-e53be1d4d205" />
+
+ 
+
+Figure: Testimonial Section
+
+<img width="884" height="590" alt="image" src="https://github.com/user-attachments/assets/9f5d77ac-5930-41bf-a792-0cf2b3992826" />
+
+
+Figure: FAQ Section
+
+<img width="882" height="546" alt="image" src="https://github.com/user-attachments/assets/df4606d3-f83e-4887-9df0-a91c02f9edbb" />
+
+
+Figure : Template Page
+
+<img width="884" height="546" alt="image" src="https://github.com/user-attachments/assets/c1b92b60-9593-4b41-863a-40373ae44c07" />
+
+ 
+Figure : Sign In Page
+
+<img width="873" height="591" alt="image" src="https://github.com/user-attachments/assets/f1ffe5c3-c4d1-4bc6-a0b3-deb2311a1de9" />
+
+
+Figure: Dashboard Page 
+
+<img width="872" height="590" alt="image" src="https://github.com/user-attachments/assets/abcb6ed1-2c34-4280-924f-71c15c8b4e75" />
+
+
+Figure: Resume Builder Page
+
+<img width="917" height="591" alt="image" src="https://github.com/user-attachments/assets/2510666c-897c-46ac-8600-e526bdb38870" />
+
+
+Figure: Resume Generation
+
+
+<img width="943" height="591" alt="image" src="https://github.com/user-attachments/assets/a35e0cba-0f02-4735-b5bc-d12816e8890e" />
+
+
+Figure: ATS Checker
+
+<img width="938" height="591" alt="image" src="https://github.com/user-attachments/assets/54afb81b-a7a3-42e7-b95f-b44c174ebb54" />
+
+
+
+Figure: ATS Result
+
+<img width="937" height="613" alt="image" src="https://github.com/user-attachments/assets/c5ebc020-f1bc-442e-a699-6fc191cd8f4d" />
